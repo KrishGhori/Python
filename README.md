@@ -3,25 +3,25 @@ This repository contains a collection of Python scripts written to practice and 
 
 - Topics Covered
 
-Variables and data types
+-Variables and data types
 
-Input and output formatting
+-Input and output formatting
 
-Conditional statements and match case
+-Conditional statements and match case
 
-Loops (for loop, while loop)
+-Loops (for loop, while loop)
 
-Functions and arguments
+-Functions and arguments
 
-Lists, tuples, sets, and dictionaries
+-Lists, tuples, sets, and dictionaries
 
-String operations and methods
+-String operations and methods
 
-Exception handling and custom errors
+-Exception handling and custom errors
 
-Simple programs such as calculator, Fibonacci sequence, factorial, prime number check
+-Simple programs such as calculator, Fibonacci sequence, factorial, prime number check
 
-Python coding standards (docstrings and PEP 8 basics)
+-Python coding standards (docstrings and PEP 8 basics)
 
 
 
