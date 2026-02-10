@@ -1,0 +1,11 @@
+# globle variable  x
+x=10
+
+def hello () :
+    global x 
+    x=4
+    y = 8 #local variable
+    print(y)
+
+hello()
+print(x)    
